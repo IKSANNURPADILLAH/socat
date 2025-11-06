@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # ===== CONFIGURATION =====
-LISTEN_PORT=8080
-POOL_HOST="pool-a.yatespool.com"
-POOL_PORT=31588
-SERVICE_NAME="socat-mining"
+LISTEN_PORT=443
+POOL_HOST="prlx.coolpool.top"
+POOL_PORT=3003
+SERVICE_NAME="prlx-socat-mining"
 
 # ===== INSTALL SOCAT =====
 echo "[+] Installing socat..."
